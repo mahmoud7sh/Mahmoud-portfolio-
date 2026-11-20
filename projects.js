@@ -131,7 +131,7 @@ window.PROJECTS = [
   {
     "id": "call-center-performance-customer-experience-analytics",
     "title": "Call Center Performance & Customer Experience Analytics",
-    "subtitle": "Power BI · Call Center Performance Analytics.",
+    "subtitle": "Analyzing 32,941 customer interactions to evaluate operational efficiency, service quality, and customer sentiment across multiple channels and locations.",
     "status": "Completed Project",
     "statusType": "done",
     "featured": true,
@@ -196,6 +196,80 @@ window.PROJECTS = [
       {
         "label": "Download  Dashboard_pdf",
         "url": "https://github.com/mahmoud7sh/Call-Center-Performance-Customer-Experience-Analytics/blob/main/Call%20Center%20Project%20_%20Dashboard.pdf"
+      }
+    ]
+  },
+  {
+    "id": "sales-performance-analysis",
+    "title": "Sales Performance Analysis",
+    "subtitle": "Interactive Power BI Dashboard | Sales, Profitability, Products & Customer Analytics",
+    "status": "Power BI Dashboard",
+    "statusType": "done",
+    "featured": true,
+    "summary": "Developed an interactive Power BI dashboard to analyze business sales performance, profitability, product trends, and customer and geographic insights. The report features three analytical pages, transforming transactional sales data into meaningful KPIs and business insights.",
+    "stats": [
+      {
+        "v": "$30.08M",
+        "l": "Total Sales"
+      },
+      {
+        "v": "$11.96M",
+        "l": "Total Profit"
+      },
+      {
+        "v": "39.77%",
+        "l": "Profit Margin"
+      },
+      {
+        "v": "$18.11M",
+        "l": "Total COGS"
+      }
+    ],
+    "points": [
+      "- Generated an overview of $30.08M in total sales and $11.96M in total profit.",
+      "- Achieved an overall profit margin of 39.77%.",
+      "- Analyzed sales and profitability across 915 unique product IDs.",
+      "- Evaluated customer activity across 948 unique account IDs.",
+      "- Compared annual performance across 2022, 2023, and the available 2024 period.",
+      "- Identified top- and bottom-performing product groups and customer accounts.",
+      "- Explored geographic sales distribution and customer profitability through interactive dashboard visuals."
+    ],
+    "tags": [
+      "Power BI",
+      "Business Intelligence",
+      "Sales Analytics",
+      "Data Analysis",
+      "DAX",
+      "Power Query"
+    ],
+    "links": [
+      {
+        "label": "View on Github",
+        "url": "https://github.com/mahmoud7sh/Sales-Performace-Analysis"
+      },
+      {
+        "label": "Dashboard PDF",
+        "url": "https://github.com/mahmoud7sh/Sales-Performace-Analysis/blob/main/Sales%20Performance%20Report%20.pdf"
+      }
+    ],
+    "images": [
+      {
+        "src": "assets/sales-performance-analysis/full/01_sales-overview.webp",
+        "thumb": "assets/sales-performance-analysis/thumb/01_sales-overview.webp",
+        "cap": "Sales Overview",
+        "label": "Executive overview of sales, revenue, costs, and profitability."
+      },
+      {
+        "src": "assets/sales-performance-analysis/full/02_customer-geographic-analysis.webp",
+        "thumb": "assets/sales-performance-analysis/thumb/02_customer-geographic-analysis.webp",
+        "cap": "Customer & Geographic Analysis",
+        "label": "Customer contribution, geographic distribution, and sales trends."
+      },
+      {
+        "src": "assets/sales-performance-analysis/full/03_products-analysis.webp",
+        "thumb": "assets/sales-performance-analysis/thumb/03_products-analysis.webp",
+        "cap": "Products Analysis",
+        "label": "Product-level performance, pricing, and profitability analysis."
       }
     ]
   }
