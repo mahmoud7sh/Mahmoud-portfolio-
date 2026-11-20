@@ -131,7 +131,7 @@ window.PROJECTS = [
   {
     "id": "call-center-performance-customer-experience-analytics",
     "title": "Call Center Performance & Customer Experience Analytics",
-    "subtitle": "Analyzing 32,941 customer interactions to evaluate operational efficiency, service quality, and customer sentiment across multiple channels and locations.",
+    "subtitle": "Power BI · Call Center Performance Analytics.",
     "status": "Completed Project",
     "statusType": "done",
     "featured": true,
