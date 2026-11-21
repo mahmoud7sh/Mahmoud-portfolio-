@@ -131,7 +131,7 @@ window.PROJECTS = [
   {
     "id": "sales-performance-analysis",
     "title": "Sales Performance Analysis",
-    "subtitle": ,
+    "subtitle": "",
     "status": "Complete - Power BI Dashboard",
     "statusType": "done",
     "featured": true,
@@ -203,7 +203,7 @@ window.PROJECTS = [
   {
     "id": "call-center-performance-customer-experience-analytics",
     "title": "Call Center Performance & Customer Experience Analytics",
-    "subtitle": ,
+    "subtitle":"" ,
     "status": "End to End Project",
     "statusType": "done",
     "featured": true,
