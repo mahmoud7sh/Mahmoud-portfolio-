@@ -6,8 +6,8 @@ window.PROJECTS = [
   {
     "id": "hospital",
     "title": "California Hospital Network Performance & Utilization Intelligence",
-    "subtitle": "Power BI · Healthcare Network Analytics",
-    "status": "Completed",
+    "subtitle":"Healthcare Analytics",
+    "status": "End to End Analytics Project",
     "statusType": "done",
     "featured": true,
     "summary": "An 11-page Power BI report analyzing California hospital utilization data across 501 hospitals and 55 counties. The project explores capacity pressure, emergency demand, patient flow, service readiness, and reported capital investment. Findings are descriptive and do not imply causation or clinical quality.",
@@ -131,18 +131,18 @@ window.PROJECTS = [
   {
     "id": "sales-performance-analysis",
     "title": "Sales Performance Analysis",
-    "subtitle": "Interactive Power BI Dashboard | Sales, Profitability, Products & Customer Analytics",
-    "status": "Power BI Dashboard",
+    "subtitle": ,
+    "status": "Complete - Power BI Dashboard",
     "statusType": "done",
     "featured": true,
     "summary": "Developed an interactive Power BI dashboard to analyze business sales performance, profitability, product trends, and customer and geographic insights. The report features three analytical pages, transforming transactional sales data into meaningful KPIs and business insights.",
     "stats": [
       {
-        "v": "$30.08M",
+        "v": "30.08M",
         "l": "Total Sales"
       },
       {
-        "v": "$11.96M",
+        "v": "11.96M",
         "l": "Total Profit"
       },
       {
@@ -150,18 +150,16 @@ window.PROJECTS = [
         "l": "Profit Margin"
       },
       {
-        "v": "$18.11M",
+        "v": "18.11M",
         "l": "Total COGS"
       }
     ],
     "points": [
-      "- Generated an overview of $30.08M in total sales and $11.96M in total profit.",
-      "- Achieved an overall profit margin of 39.77%.",
-      "- Analyzed sales and profitability across 915 unique product IDs.",
-      "- Evaluated customer activity across 948 unique account IDs.",
-      "- Compared annual performance across 2022, 2023, and the available 2024 period.",
-      "- Identified top- and bottom-performing product groups and customer accounts.",
-      "- Explored geographic sales distribution and customer profitability through interactive dashboard visuals."
+      "Generated an overview of $30.08M in total sales and $11.96M in total profit.",
+      "Achieved an overall profit margin of 39.77%.",
+      "Analyzed sales and profitability across 915 unique product IDs.",
+      "Identified top- and bottom-performing product groups and customer accounts.",
+      "Explored geographic sales distribution and customer profitability through interactive dashboard visuals."
     ],
     "tags": [
       "Power BI",
@@ -205,15 +203,15 @@ window.PROJECTS = [
   {
     "id": "call-center-performance-customer-experience-analytics",
     "title": "Call Center Performance & Customer Experience Analytics",
-    "subtitle": "Analyzing 32,941 customer interactions to evaluate operational efficiency, service quality, and customer sentiment across multiple channels and locations.",
-    "status": "Completed Project",
+    "subtitle": ,
+    "status": "End to End Project",
     "statusType": "done",
     "featured": true,
-    "summary": "This project delivers an interactive Power BI solution for analyzing call center operations and customer experience using 32,941 call records.\n\nThe dashboard provides insights into call volume, call duration, customer sentiment, response time, SLA performance, communication channels, call reasons, and geographic distribution.\n\nThe workflow included data cleaning and transformation using Power Query, analytical calculations using DAX, and dashboard development in Power BI, with Excel used for data inspection and validation.",
+    "summary": "This project delivers an interactive Power BI solution for analyzing call center operations and customer experience using 32,941 call records.\n\nThe dashboard provides insights into call volume, call duration, customer sentiment, response time, SLA performance, communication channels, call reasons, and geographic distribution.",
     "stats": [
       {
         "v": "32,941",
-        "l": "Total Calls Analyzed"
+        "l": "Total Calls"
       },
       {
         "v": "75.3%",
@@ -231,8 +229,6 @@ window.PROJECTS = [
     "points": [
       "Analyzed 32,941 customer calls across multiple communication channels and geographic locations.",
       "Identified customer sentiment distribution, with negative sentiment representing 51.9% of total calls.",
-      "Evaluated service efficiency through response time and SLA performance indicators.",
-      "Compared call volume across four channels: Call Center, Chatbot, Email, and Web.",
       "Analyzed call distribution by call center location, customer city, state, and call reason.",
       "Examined call volume trends and customer sentiment patterns throughout October."
     ],
@@ -242,11 +238,8 @@ window.PROJECTS = [
       "DAX",
       "Excel",
       "Data Cleaning",
-      "Data Transformation",
       "Data Analysis",
-      "Customer Experience",
-      "Call Center Analytics",
-      "Performance Monitoring"
+      "Customer Experience"
     ],
     "images": [
       {
@@ -276,7 +269,7 @@ window.PROJECTS = [
   {
     "id": "hospital-quality-patient-safety-analytics",
     "title": "Hospital Quality & Patient Safety Analytics",
-    "status": "Power BI  Healthcare Quality",
+    "status": "In Progress",
     "statusType": "progress",
     "featured": false
   }
