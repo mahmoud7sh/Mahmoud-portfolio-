@@ -271,6 +271,6 @@ window.PROJECTS = [
     "title": "Hospital Quality & Patient Safety Analytics",
     "status": "In Progress",
     "statusType": "progress",
-    "featured": true
+    "featured": False
   }
 ];
