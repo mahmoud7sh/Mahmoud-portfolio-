@@ -129,77 +129,6 @@ window.PROJECTS = [
     ]
   },
   {
-    "id": "call-center-performance-customer-experience-analytics",
-    "title": "Call Center Performance & Customer Experience Analytics",
-    "subtitle": "Analyzing 32,941 customer interactions to evaluate operational efficiency, service quality, and customer sentiment across multiple channels and locations.",
-    "status": "Completed Project",
-    "statusType": "done",
-    "featured": true,
-    "summary": "This project delivers an interactive Power BI solution for analyzing call center operations and customer experience using 32,941 call records.\n\nThe dashboard provides insights into call volume, call duration, customer sentiment, response time, SLA performance, communication channels, call reasons, and geographic distribution.\n\nThe workflow included data cleaning and transformation using Power Query, analytical calculations using DAX, and dashboard development in Power BI, with Excel used for data inspection and validation.",
-    "stats": [
-      {
-        "v": "32,941",
-        "l": "Total Calls Analyzed"
-      },
-      {
-        "v": "75.3%",
-        "l": "Response Time"
-      },
-      {
-        "v": "51.9%",
-        "l": "Negative Sentiment Rate"
-      },
-      {
-        "v": "62.6%",
-        "l": "Within SLA Rate"
-      }
-    ],
-    "points": [
-      "Analyzed 32,941 customer calls across multiple communication channels and geographic locations.",
-      "Identified customer sentiment distribution, with negative sentiment representing 51.9% of total calls.",
-      "Evaluated service efficiency through response time and SLA performance indicators.",
-      "Compared call volume across four channels: Call Center, Chatbot, Email, and Web.",
-      "Analyzed call distribution by call center location, customer city, state, and call reason.",
-      "Examined call volume trends and customer sentiment patterns throughout October."
-    ],
-    "tags": [
-      "Power BI",
-      "Power Query",
-      "DAX",
-      "Excel",
-      "Data Cleaning",
-      "Data Transformation",
-      "Data Analysis",
-      "Customer Experience",
-      "Call Center Analytics",
-      "Performance Monitoring"
-    ],
-    "images": [
-      {
-        "src": "assets/call-center-performance-customer-experience-analytics/full/01_all-center-performance-executive-overview.webp",
-        "thumb": "assets/call-center-performance-customer-experience-analytics/thumb/01_all-center-performance-executive-overview.webp",
-        "cap": "all Center Performance – Executive Overview",
-        "label": "Overview"
-      },
-      {
-        "src": "assets/call-center-performance-customer-experience-analytics/full/02_customer-experience-sla-performance-analysis.webp",
-        "thumb": "assets/call-center-performance-customer-experience-analytics/thumb/02_customer-experience-sla-performance-analysis.webp",
-        "cap": "Customer Experience & SLA Performance Analysis",
-        "label": "Performance Details"
-      }
-    ],
-    "links": [
-      {
-        "label": "View on Github",
-        "url": "https://github.com/mahmoud7sh/Call-Center-Performance-Customer-Experience-Analytics"
-      },
-      {
-        "label": "Download  Dashboard_pdf",
-        "url": "https://github.com/mahmoud7sh/Call-Center-Performance-Customer-Experience-Analytics/blob/main/Call%20Center%20Project%20_%20Dashboard.pdf"
-      }
-    ]
-  },
-  {
     "id": "sales-performance-analysis",
     "title": "Sales Performance Analysis",
     "subtitle": "Interactive Power BI Dashboard | Sales, Profitability, Products & Customer Analytics",
@@ -272,5 +201,83 @@ window.PROJECTS = [
         "label": "Product-level performance, pricing, and profitability analysis."
       }
     ]
+  },
+  {
+    "id": "call-center-performance-customer-experience-analytics",
+    "title": "Call Center Performance & Customer Experience Analytics",
+    "subtitle": "Analyzing 32,941 customer interactions to evaluate operational efficiency, service quality, and customer sentiment across multiple channels and locations.",
+    "status": "Completed Project",
+    "statusType": "done",
+    "featured": true,
+    "summary": "This project delivers an interactive Power BI solution for analyzing call center operations and customer experience using 32,941 call records.\n\nThe dashboard provides insights into call volume, call duration, customer sentiment, response time, SLA performance, communication channels, call reasons, and geographic distribution.\n\nThe workflow included data cleaning and transformation using Power Query, analytical calculations using DAX, and dashboard development in Power BI, with Excel used for data inspection and validation.",
+    "stats": [
+      {
+        "v": "32,941",
+        "l": "Total Calls Analyzed"
+      },
+      {
+        "v": "75.3%",
+        "l": "Response Time"
+      },
+      {
+        "v": "51.9%",
+        "l": "Negative Sentiment Rate"
+      },
+      {
+        "v": "62.6%",
+        "l": "Within SLA Rate"
+      }
+    ],
+    "points": [
+      "Analyzed 32,941 customer calls across multiple communication channels and geographic locations.",
+      "Identified customer sentiment distribution, with negative sentiment representing 51.9% of total calls.",
+      "Evaluated service efficiency through response time and SLA performance indicators.",
+      "Compared call volume across four channels: Call Center, Chatbot, Email, and Web.",
+      "Analyzed call distribution by call center location, customer city, state, and call reason.",
+      "Examined call volume trends and customer sentiment patterns throughout October."
+    ],
+    "tags": [
+      "Power BI",
+      "Power Query",
+      "DAX",
+      "Excel",
+      "Data Cleaning",
+      "Data Transformation",
+      "Data Analysis",
+      "Customer Experience",
+      "Call Center Analytics",
+      "Performance Monitoring"
+    ],
+    "images": [
+      {
+        "src": "assets/call-center-performance-customer-experience-analytics/full/01_all-center-performance-executive-overview.webp",
+        "thumb": "assets/call-center-performance-customer-experience-analytics/thumb/01_all-center-performance-executive-overview.webp",
+        "cap": "all Center Performance – Executive Overview",
+        "label": "Overview"
+      },
+      {
+        "src": "assets/call-center-performance-customer-experience-analytics/full/02_customer-experience-sla-performance-analysis.webp",
+        "thumb": "assets/call-center-performance-customer-experience-analytics/thumb/02_customer-experience-sla-performance-analysis.webp",
+        "cap": "Customer Experience & SLA Performance Analysis",
+        "label": "Performance Details"
+      }
+    ],
+    "links": [
+      {
+        "label": "View on Github",
+        "url": "https://github.com/mahmoud7sh/Call-Center-Performance-Customer-Experience-Analytics"
+      },
+      {
+        "label": "Download  Dashboard_pdf",
+        "url": "https://github.com/mahmoud7sh/Call-Center-Performance-Customer-Experience-Analytics/blob/main/Call%20Center%20Project%20_%20Dashboard.pdf"
+      }
+    ]
+  },
+  {
+    "id": "hospital-quality-patient-safety-analytics",
+    "title": "Hospital Quality & Patient Safety Analytics",
+    "status": "Power BI  Healthcare Quality",
+    "statusType": "progress",
+    "featured": false
   }
 ];
